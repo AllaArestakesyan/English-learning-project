@@ -195,8 +195,7 @@ export const SeeWords: React.FC = (): JSX.Element => {
                         <br />
                         <br />
                         <p>
-                            This page will help you learn English. On the page it is possible to add new words, change the speed of reading the words, the voice, take a test and see the test results
-                        </p>
+                        This page will help you learn English. On the page, it is possible to add new words, change the speed of reading the words, choose the voice, take a test, and view the test results.                        </p>
                     </div>
                 </div>
             </div>

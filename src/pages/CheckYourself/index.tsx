@@ -23,6 +23,7 @@ export const CheckYourself: React.FC = () => {
     const winAudio = new Audio("./sounds/win.wav")
     const failAudio = new Audio("./sounds/fail.wav")
 
+    
     const [show, setShow] = useState<boolean>(false)
     const [str, setStr] = useState<string>('')
 
